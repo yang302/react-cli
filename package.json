@@ -1,0 +1,19 @@
+{
+    "name": "react-cli",
+    "version": "2.0.0",
+    "files": [
+        "sao.js",
+        "template"
+    ],
+    "repository": {
+        "url": "git@github.com:yang302/react-cli.git",
+        "type": "git"
+    },
+    "author": "dennis <yangqingfeng610@163.com>",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "node-sass": "^4.5.3",
+        "sass-loader": "^6.0.5"
+    }
+}
